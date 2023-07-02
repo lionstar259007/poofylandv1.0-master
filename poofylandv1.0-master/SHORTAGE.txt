@@ -1,0 +1,7 @@
+1.flipping function
+2.social icons include discord icon
+3.aos-animate pakage install
+4.how to import data
+5.three.js
+6.slider
+7.gallery
